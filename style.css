@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(15, 136, 241);
+}
+#father{
+    color: red;
+    width: 900;
+    height: 100;
+    font-size: 50px;
+}
+#hridaan{
+    color: rgb(68, 0, 255);
+    width: 900;
+    height: 100;
+    font-size: 50px;
+}
+#mother{
+    color: rgb(0, 255, 13);
+    width: 900;
+    height: 100;
+    font-size: 50px;
+}
